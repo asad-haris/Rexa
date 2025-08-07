@@ -1,0 +1,10 @@
+__pycache__/
+*.zip
+*.pyc
+.env/
+.venv/
+.vscode/
+.streamlit/
+__pycache__/
+*.zip
+*.pyc
