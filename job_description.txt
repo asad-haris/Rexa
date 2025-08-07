@@ -1,0 +1,13 @@
+We are looking for a Data Analyst to join our team.
+
+Responsibilities:
+- Collect, process, and analyze large datasets
+- Generate business insights and present findings
+- Use tools like SQL, Python, and Excel
+- Build dashboards using Power BI or Tableau
+
+Requirements:
+- Bachelor's degree in Computer Science, Data Science, or related
+- Strong knowledge of Python, Pandas, NumPy
+- Experience with SQL and data visualization tools
+- Excellent communication skills
