@@ -8,3 +8,9 @@ __pycache__/
 __pycache__/
 *.zip
 *.pyc
+# ignore env
+.env
+__pycache__/
+*.pyc
+*.zip
+.vscode/
