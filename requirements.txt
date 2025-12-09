@@ -1,5 +1,9 @@
 streamlit
+openai
+python-dotenv
 pandas
 scikit-learn
 PyPDF2
-python-dotenv
+pdf2image
+pytesseract
+numpy
